@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-08-22T21:37:20.670904",
+  "timestamp": "2025-08-25T21:38:16.202146",
   "ticker": "SPY",
-  "data_points": 2480,
+  "data_points": 2481,
   "latest_signal": {
-    "date": "2025-08-22",
+    "date": "2025-08-25",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 1.0508364420753225,
-    "oscillator_value": 10.480750000000057,
-    "signal_strength": 38.84636649555301,
+    "phase_value": 1.0481987053013722,
+    "oscillator_value": 10.446750000000065,
+    "signal_strength": 38.58913386837395,
     "confidence": "MEDIUM",
-    "price": 645.31,
-    "timestamp": "2025-08-22T21:37:19.536775"
+    "price": 642.47,
+    "timestamp": "2025-08-25T21:38:14.998157"
   },
   "backtest_metrics": {
-    "total_return_%": 69.96534675829051,
+    "total_return_%": 70.25156750604222,
     "max_drawdown_%": 1.9013892729705353,
-    "sharpe_ratio": 1.4702725087856077,
-    "sortino_ratio": 5.704554630775547,
-    "calmar_ratio": 9.853829884413887,
+    "sharpe_ratio": 1.473381258670295,
+    "sortino_ratio": 5.71437320001538,
+    "calmar_ratio": 9.870790106071807,
     "total_trades": 12,
     "win_rate_%": 75.0,
-    "profit_factor": 20.684549649697537
+    "profit_factor": 20.762406341778497
   },
   "cycle_analysis": {
     "dominant_period": 84.0,
