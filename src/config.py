@@ -54,7 +54,7 @@ class Config:
     # Data Parameters (CORRETTO)
     
     # Definisci il lookback desiderato in anni.
-    LOOKBACK_YEARS = 10
+    LOOKBACK_YEARS = 20
     
     # Calcola correttamente la data di inizio sottraendo anni di calendario.
     # Moltiplichiamo per 365.25 per tenere conto degli anni bisestili.
