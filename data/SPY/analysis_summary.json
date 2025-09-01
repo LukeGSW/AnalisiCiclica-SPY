@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-29T21:36:20.335752",
+  "timestamp": "2025-09-01T21:36:07.062668",
   "ticker": "SPY",
   "data_points": 4995,
   "latest_signal": {
@@ -12,7 +12,7 @@
     "signal_strength": 47.373757169056226,
     "confidence": "MEDIUM",
     "price": 645.05,
-    "timestamp": "2025-08-29T21:36:18.538165"
+    "timestamp": "2025-09-01T21:36:05.068505"
   },
   "backtest_metrics": {
     "total_return_%": 156.91647869253825,
