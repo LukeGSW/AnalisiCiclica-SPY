@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-10-10T21:36:01.933031",
+  "timestamp": "2025-10-13T21:35:39.406537",
   "ticker": "SPY",
-  "data_points": 5024,
+  "data_points": 5025,
   "latest_signal": {
-    "date": "2025-10-10",
+    "date": "2025-10-13",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 1.1568321107951174,
-    "oscillator_value": 12.16700000000003,
-    "signal_strength": 55.8452450886133,
+    "phase_value": 1.1657933053331282,
+    "oscillator_value": 11.613000000000056,
+    "signal_strength": 54.23195603559391,
     "confidence": "MEDIUM",
-    "price": 653.02,
-    "timestamp": "2025-10-10T21:36:00.139960"
+    "price": 663.04,
+    "timestamp": "2025-10-13T21:35:37.228716"
   },
   "backtest_metrics": {
     "total_return_%": 146.21133291463582,
