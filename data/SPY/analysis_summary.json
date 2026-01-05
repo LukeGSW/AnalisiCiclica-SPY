@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-01-02T21:38:17.832892",
+  "timestamp": "2026-01-05T21:42:58.063354",
   "ticker": "SPY",
-  "data_points": 5081,
+  "data_points": 5082,
   "latest_signal": {
-    "date": "2026-01-02",
+    "date": "2026-01-05",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 1.1788617154196153,
-    "oscillator_value": 6.552999999999997,
-    "signal_strength": 32.124018817633804,
+    "phase_value": 1.149142959736186,
+    "oscillator_value": 7.424499999999966,
+    "signal_strength": 33.82392439869116,
     "confidence": "MEDIUM",
-    "price": 683.17,
-    "timestamp": "2026-01-02T21:38:15.753485"
+    "price": 687.72,
+    "timestamp": "2026-01-05T21:42:56.355036"
   },
   "backtest_metrics": {
     "total_return_%": 144.65340981670903,
     "max_drawdown_%": 3.271355765095412,
-    "sharpe_ratio": 1.0959759537610996,
+    "sharpe_ratio": 1.0959759537610998,
     "sortino_ratio": 0.9837260454958285,
     "calmar_ratio": 4.79910956394155,
     "total_trades": 26,
